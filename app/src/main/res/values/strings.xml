@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="go_to_subscribe">Go To Subscribe</string>
+    <string name="openWebsiteButton">Go to Gallery</string>
 </resources>
